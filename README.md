@@ -11,5 +11,9 @@ https://github.com/ieee8023/covid-chestxray-dataset
 https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 
 To Clone this repository
+
+
 git clone https://github.com/rishabh706/Covid-19-Chest-X-Ray-Classification.git
 
+
+Note:- The project is just for educational purpose,it should be thoroughly checked before deploying the model to real time. 
